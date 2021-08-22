@@ -10,6 +10,3 @@ Classes:
 neat-python provides neural network model with wide amout of configuration.
 
 Tip: Bird population does affect model quiet significantlly so population as high as good for NN (suggested 50)
-
-Project is done by following other walkthrouhs to learn some new packages.
-Hope I will able to make some other AI projects on my own!!
